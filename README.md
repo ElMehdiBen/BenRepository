@@ -1,4 +1,4 @@
-# El Mehdi Benyoussef, Product Lead Data Scientist @ The Good Data Factory | PhD Researcher, Rabat, Morocco
+# El Mehdi Benyoussef : Product Lead Data Scientist @ The Good Data Factory | PhD Researcher, Rabat, Morocco
 
 Driven by curiosity, having hands on experience in solving real life problems using statistical analysis, machine learning and data visualization. Experienced Doctoral Researcher with a demonstrated history of working in the information technology and services industry. Skilled in Python, Data Engineering...
 
