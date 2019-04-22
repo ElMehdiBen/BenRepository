@@ -4,8 +4,8 @@ Driven by curiosity, having hands on experience in solving real life problems us
 
 ## Skills
 
-Languages and Frameworks: Python (scikit-learn, NumPy, Pandas, Jupyter, Tensorflow, Keras), R, Scala; Familiar with Git, SQL, Hadoop, Microsoft Azure Web Services(Machine Learning), Google Cloud Platform, LaTeX
+**Languages and Frameworks :** Python (scikit-learn, NumPy, Pandas, Jupyter, Tensorflow, Keras), R, Scala; Familiar with Git, SQL, Hadoop, Microsoft Azure Web Services(Machine Learning), Google Cloud Platform, LaTeX
 
-Machine Learning: Classification, Regression, Ensemble methods, Deep learning, Feature engineering, Data scraping, manipulation, and visualization, natural language processing (NLP)
+**Machine Learning :** Classification, Regression, Ensemble methods, Deep learning, Feature engineering, Data scraping, manipulation, and visualization, natural language processing (NLP)
 
-Certifications: Big Data Specialist with IBM BigInsights V2.1, and basic architectural solutions
+**Certifications :** Big Data Specialist with IBM BigInsights V2.1, and basic architectural solutions
